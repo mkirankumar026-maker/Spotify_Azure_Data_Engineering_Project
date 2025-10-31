@@ -1,0 +1,9 @@
+{
+	"name": "spotify-project-adf-kiran",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8cb709c-46aa-46d0-ae98-30fe08bfab5d",
+		"tenantId": "88499d76-a2cd-44b6-80e9-6b294bc83a0f"
+	}
+}
