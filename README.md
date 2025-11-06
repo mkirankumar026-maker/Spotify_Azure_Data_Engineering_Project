@@ -5,7 +5,7 @@ This project demonstrates a complete **data engineering pipeline on Microsoft Az
 #project architecture
 
 
-<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/7485d1ce-b9ee-4771-bcb2-06de90b0a17d" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/7485d1ce-b9ee-4771-bcb2-06de90b0a17d" />
 
 
 
