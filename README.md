@@ -2,6 +2,11 @@
 
 This project demonstrates a complete **data engineering pipeline on Microsoft Azure**, covering data ingestion, transformation, storage, governance, and deployment. The pipeline follows a modern **Lakehouse Architecture** using Azure Data Factory, Databricks, ADLS Gen2, Delta Lake, Unity Catalog, and CI/CD deployment with Databricks Asset Bundles.
 
+#project architecture
+
+
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/7485d1ce-b9ee-4771-bcb2-06de90b0a17d" />
+
 
 
 ---
